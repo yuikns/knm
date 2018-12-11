@@ -15,12 +15,12 @@ I have already prepared a packaged file for you.
 
 Please visit [the release page](https://github.com/yuikns/knm/releases), and download the latest `knm.crx` file.
 
-After you get the .crx file, you can visit <chrome://extensions/>, and then drag & drop the `knm.crx` onto the page.
+After you get the .crx file, you can visit the extensions manage page (as for me, I will type `chrome://extensions` on my address bar), and then drag & drop the `knm.crx` onto the page.
 
 
 As an alternative solution, you can also load the pack directly.
 
-Please download this repository first, and then visit <chrome://extensions/> in your chome, turn the `developer mode` on on top right. You should find a new tab on the top.
+Please download this repository first, and then visit extensions management page in your chome, turn the `developer mode` on on top right. You should find a new tab on the top.
 
 Click the first buttion `Load unpackaged`, and choose the source folder. You will also get this modified theme.
 
@@ -28,4 +28,5 @@ Click the first buttion `Load unpackaged`, and choose the source folder. You wil
 ## References
 
 + [Google Chrome Theme Tutorial](https://sites.google.com/site/gsugsa/google-apps/google-chrome/how-to-create-a-theme)
++ [Install and manage extensions](https://support.google.com/chrome_webstore/answer/2664769)
 

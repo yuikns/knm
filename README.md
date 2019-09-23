@@ -4,10 +4,11 @@ The google theme [Koji NISHIDA](https://chrome.google.com/webstore/detail/koji-n
 
 It seems like the author has no plan to fix the issue, I make a simple fix for this theme.
 
+**The copyright belongs to the original author.**
+
 ## What was changed
 
-I copied the resource from `$HOME/Library/Application Support/Google/Chrome/Default/Extensions/acganlmcjehnfmehkmlimgkaloifodlf`, and updated the image for `theme_toolbar`. The key problem is the height of the toolbar and tabs are changed. I manually modified the image to make the new image match the current UI layout.
-
+Since the key issue is the height of the toolbar and tabs of the new Chrome were changed. I copied the resource from the extension folder, and then I manually modified the image for "theme_toolbar" to make the new image meet the new UI layout. Besides, I renamed the image names to let us recognize the images easily.
 
 ## How to use it
 
@@ -23,7 +24,6 @@ As an alternative solution, you can also load the pack directly.
 Please download this repository first, and then visit extensions management page in your chome, turn the `developer mode` on on top right. You should find a new tab on the top.
 
 Click the first buttion `Load unpackaged`, and choose the source folder. You will also get this modified theme.
-
 
 ## References
 

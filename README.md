@@ -27,6 +27,10 @@ Click the first buttion `Load unpackaged`, and choose the source folder. You wil
 
 ## References
 
-+ [Google Chrome Theme Tutorial](https://sites.google.com/site/gsugsa/google-apps/google-chrome/how-to-create-a-theme)
++ [What are themes?](https://developer.chrome.com/docs/extensions/develop/ui/themes)
 + [Install and manage extensions](https://support.google.com/chrome_webstore/answer/2664769)
-
++ Related manifest keys:
+    + `images`: [kPersistingImages](https://source.chromium.org/search/?q=file:chrome/browser/themes%20symbol:kPersistingImages$)
+    + `properties` [kDisplayProperties](https://source.chromium.org/search/?q=file:chrome/browser/themes%20symbol:kDisplayProperties$)
+    + `tints` [kTintTable](https://source.chromium.org/search/?q=file:chrome/browser/themes%20symbol:kTintTable$)
+    + `colors` [kOverwritableColorTable](https://source.chromium.org/search/?q=file:chrome/browser/themes%20symbol:kOverwritableColorTable$)
